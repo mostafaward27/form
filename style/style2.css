@@ -37,6 +37,10 @@ tr {
     border-color: inherit;
 }
 
+tr:hover{
+    background-color: rgba(55, 86, 95, 0.521);
+}
+
 table th {
     background-color: #181a20;
     color: #f1c40f;
