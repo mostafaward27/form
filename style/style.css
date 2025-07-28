@@ -18,12 +18,12 @@ header {
     box-shadow: 0 2px 10px rgba(44, 62, 80, 0.3);
 }
 
-.main-nav {
+.hero {
     text-align: center;
     margin-bottom: 30px;
 }
 
-.nav-btn {
+.btn {
     display: inline-block;
     background-color: #34495e;
     color: #f1c40f;
@@ -36,7 +36,7 @@ header {
     border: 1px solid #f1c40f;
 }
 
-.nav-btn:hover {
+.btn:hover {
     background-color: #f1c40f;
     color: #22243a;
 }
